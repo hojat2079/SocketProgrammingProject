@@ -1,4 +1,4 @@
-# WebSocketProject
+# SocketProgrammingProject
 
 This is a console application for concept of socket in Java.
 
