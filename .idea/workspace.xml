@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a1ff993-dd22-47cc-95dd-98f5aada36fa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="identifier.sqlite" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="POST: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="sqlite_master: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="USER: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="240K5CrEugESflcVckbAH1h5oUj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/sqlite-jdbc-3.8.11.2.jar!/" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Server">
+    <configuration name="SQLiteJDBC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.database.SQLiteJDBC" />
+      <module name="untitled19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.Server" />
+      <module name="untitled19" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.SQLiteJDBC" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a1ff993-dd22-47cc-95dd-98f5aada36fa" name="Default Changelist" comment="" />
+      <created>1642761878190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642761878190</updated>
+      <workItem from="1642761881344" duration="28921000" />
+      <workItem from="1642840704817" duration="783000" />
+      <workItem from="1642841499830" duration="5149000" />
+      <workItem from="1642851725558" duration="32038000" />
+      <workItem from="1643026671949" duration="3376000" />
+      <workItem from="1643107790027" duration="55000" />
+      <workItem from="1646553881214" duration="41000" />
+      <workItem from="1646554298154" duration="2885000" />
+      <workItem from="1647878894126" duration="248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="161" y="0" key="#SQL_Dialects" timestamp="1642778023745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="161" y="0" key="#SQL_Dialects/0.0.1536.824@0.0.1536.824" timestamp="1642778023745" />
+    <state x="508" y="52" width="814" height="718" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1642787111289">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="508" y="52" width="814" height="718" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1642787111289" />
+    <state x="422" y="172" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1642799916244">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="422" y="172" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1642799916244" />
+    <state x="93" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1642928700671">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1642928700671" />
+    <state x="410" y="0" key="DetectedRootsChooserDialog" timestamp="1642787266849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="410" y="0" key="DetectedRootsChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1642787266849" />
+    <state x="332" y="26" key="FileChooserDialogImpl" timestamp="1642841627297">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="332" y="26" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1642841627297" />
+    <state width="1461" height="235" key="GridCell.Tab.0.bottom" timestamp="1643037324320">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1461" height="235" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1643037324320" />
+    <state width="1461" height="235" key="GridCell.Tab.0.center" timestamp="1643037324320">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1461" height="235" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1643037324320" />
+    <state width="1461" height="235" key="GridCell.Tab.0.left" timestamp="1643037324320">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1461" height="235" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1643037324320" />
+    <state width="1461" height="235" key="GridCell.Tab.0.right" timestamp="1643037324320">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1461" height="235" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1643037324320" />
+    <state width="1461" height="224" key="GridCell.Tab.1.bottom" timestamp="1642958682184">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1461" height="224" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1642958682184" />
+    <state width="1461" height="224" key="GridCell.Tab.1.center" timestamp="1642958682184">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1461" height="224" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1642958682184" />
+    <state width="1461" height="224" key="GridCell.Tab.1.left" timestamp="1642958682183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1461" height="224" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1642958682183" />
+    <state width="1461" height="224" key="GridCell.Tab.1.right" timestamp="1642958682184">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1461" height="224" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1642958682184" />
+    <state width="329" height="820" key="HiddenNamespacesPopup" timestamp="1642792118145">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="329" height="820" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1642792118145" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1642788055515">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1642788055515" />
+    <state x="627" y="246" width="471" height="352" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1642861848720">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="627" y="246" width="471" height="352" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.824@0.0.1536.824" timestamp="1642861848720" />
+    <state x="374" y="83" key="extract.method.dialog" timestamp="1642920458723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="374" y="83" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1642920458723" />
+    <state x="303" y="0" key="new project wizard" timestamp="1646553919139">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="303" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1646553919139" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/server/Server.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
